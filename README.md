@@ -49,6 +49,6 @@ dataset.isnull().sum()
 
 The above data code gives the columns whose data is missing, the Description column and Customer ID. And to delete rows with missing data, I used the following code:
 
-# delete rows with missing data dataset1 = dataset.dropna() .
+delete rows with missing data dataset1 = dataset.dropna() .
 
 
