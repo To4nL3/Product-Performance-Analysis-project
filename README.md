@@ -4,7 +4,7 @@ In this project, I will analyze the performance of products within an online ret
 
 Dataset: I will utilize the "Online Retail II Data Set" available on Kaggle, which contains transactional data from an online retail store, including information on products, sales, and customers.
 
-# THE DATA:
+# THE DATA
 
 The data is an Excel file downloaded from Kaggle.com, a data center with many datasets worldwide. This dataset uses the years from December 1, 2009, to December 9, 2011.
 
