@@ -11,6 +11,7 @@ and 525462 rows in year 2009-2010 sheet and 9 columns and 541911 rows in year 20
 ![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/fc11ed28-e098-4924-b804-3fbb1f7e24a1)
 
 OBJECTIVES:
+
 The purpose of this analysis is to analyze an online retail store dataset. Here are several questions that will be answered in this analysis:
 1.	What is the total amount of revenue generated?
 2.	What products do consumers buy most?
@@ -43,8 +44,11 @@ DATA CLEANING:
 To work with the data I did the Data cleaning first as this is an important part in data analysis. In this way, we will be able to understand if the data seen is ready to be analyzed or not. If not, then cleaning can be done. Cleaning can be done by removing outliers, empty values, and duplicate data.
 
 Handle missing data: First, I would look at the amount of missing data in each column.
+
 dataset.isnull().sum()
+
 The above data code gives the columns whose data is missing, the Description column and Customer ID. And to delete rows with missing data, I used the following code:
+
 # delete rows with missing data dataset1 = dataset.dropna() .
 
 
