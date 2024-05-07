@@ -27,3 +27,5 @@ In the data preparation section, I will prepare the data so that in the next sec
 *Import openpyxl as pd
 This library uploads the excel in python 3.12
 After adding the libraries, the next step is to call the dataset that was downloaded from kaggle.
+
+![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/e9548c0b-50d2-4b81-bb46-b495e1088774)
