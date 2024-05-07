@@ -49,6 +49,13 @@ Handle missing data: First, I would look at the amount of missing data in each c
 
 The above data code gives the columns whose data is missing, the Description column and Customer ID. And to delete rows with missing data, I used the following code:
 
-> delete rows with missing data dataset1 = dataset.dropna() .
+> delete rows with missing data dataset1 = dataset.dropna()
+
+![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/7e96830a-9e81-4ca1-ac85-c725b0ac3536)
+
+## ANALYSIS
+1.	What is the total amount of revenue generated?
+The total amount of revenue generated was taken out by adding sum formula in excel file both sheet Year 2009-2010 and Year 2010-2011 in order for python to check and analyze data.
+
 
 
