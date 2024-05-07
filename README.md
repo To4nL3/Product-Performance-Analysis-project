@@ -37,6 +37,7 @@ Here are some of the data from my dataset:
 
 
 DATA CLEANING:
+
 To work with the data I did the Data cleaning first as this is an important part in data analysis. In this way, we will be able to understand if the data seen is ready to be analyzed or not. If not, then cleaning can be done. Cleaning can be done by removing outliers, empty values, and duplicate data.
 
 Handle missing data: First, I would look at the amount of missing data in each column.
