@@ -72,5 +72,25 @@ The total no. of unique customer was taken out by customer ID column and adding 
  
 The best-selling product based on the stock code and quantity of product sold in both years by ignoring negative values and expenses.
 
+![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/f699a29f-66ab-41af-93d3-2eb0f5dd0dcb)
+
+For year 2010-2011
+
+| Invoice | StockCode | Desciption |
+| ---- | ---- | ---- |
+| 556527 | 23343 | JUMBO BAG VINTAGE CHRISTMAS |
+
+
+For year 2009-2010
+
+| Invoice | StockCode | Desciption |
+| ---- | ---- | ---- |
+| 500128 | 22467 | GUMBALL COAT RACK |
+
+4.	Country with the highest sales of Product:
+   
+The UK stands out as the country with the highest number of transactions, totaling 902,5222. This data suggests an opportunity for online retailers to consider increasing their production and marketing efforts within the UK market. However, it's important not to solely focus on the UK; attention should also be
+given to countries with lower transaction volumes. Inbound marketing, targeted advertising, and exploring international markets can effectively expand sales abroad.
+
 
 
