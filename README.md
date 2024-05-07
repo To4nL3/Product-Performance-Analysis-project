@@ -101,7 +101,42 @@ The products with low sales quantities present valuable insights for online stor
 6.	Products with the highest price:
 
 The PICNIC BASKET WICKER 60 PIECES stands out as the highest-priced product at 649.5 Pound sterling. It's commonly perceived that higher prices correlate with better quality or rarity. However, it's imperative for businesses to ensure that the high price is justified by the product's quality.
-Maintaining the quality of the PICNIC BASKET WICKER 60 PIECES is essential to uphold consumer trust and satisfaction. If customers perceive a disconnect between price and quality, it can adversely affect the reputation of the online store. Therefore, a focus on quality assurance is crucial to sustain consumer interest and willingness to purchase despite the premium price tag.
+Maintaining the quality of the PICNIC BASKET WICKER 60 PIECES is essential to uphold consumer trust and satisfaction. If customers perceive a disconnect between price and quality, it can adversely affect the online store's reputation. Therefore, focusing on quality assurance is crucial to sustain consumer interest and willingness to purchase despite the premium price tag.
+
+![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/f164b379-bead-4dcb-95cd-b41ace95779f)
+
+## RECOMMENDATION
+That’s the final part of the online shop analysis this time. Data analysis is a very important thing to do, because with data analysis we can make decisions based on data. Decisions with databases are very powerful compared to decisions taken without data. So the point is to use data in our business, because with data everything can be done well and accurately.
+1.	Revenue Analysis:
+   
+Examine revenue trends between 2009-2010 and 2010-2011 to identify growth or decline patterns. Look for factors contributing to these changes, such as seasonality, product popularity, or economic conditions. Utilize this analysis to refine business strategies and capitalize on revenue opportunities.
+
+2.	Customer Acquisition Strategies:
+
+With 5942 unique customers acquired, focus on building long-term relationships. Implement personalized marketing tactics, loyalty programs, and exceptional customer service to enhance customer satisfaction and retention. Encourage repeat purchases through targeted promotions and incentives.
+
+3.	Best-selling Product Identification:
+ 
+Identify top-selling products like "JUMBO BAG VINTAGE CHRISTMAS" and "GUMBALL COAT RACK" for each respective year. Analyze the unique selling points of these products, such as design, functionality, or seasonal appeal. Leverage this insight to optimize marketing efforts and prioritize product development.
+
+4.	Sales by Country Analysis:
+
+While the UK leads in transaction volume, explore opportunities for international expansion. Evaluate markets with lower transaction numbers (e.g., Netherlands, EIRE, Germany) for potential growth. Tailor marketing strategies and product offerings to resonate with local preferences and consumer behavior.
+
+
+5.	Low Sales Quantity Product Evaluation:
+   
+Investigate products with low sales quantities to uncover underlying reasons. Conduct market research to understand customer preferences and demand drivers. Adjust pricing, marketing messaging, or product positioning to stimulate sales and improve product performance.
+
+6.	High-priced Product Strategy:
+
+Ensure that the high-priced product "PICNIC BASKET WICKER 60 PIECES" maintains perceived value and quality. Monitor customer feedback and satisfaction levels to address any concerns promptly. Consider offering unique value propositions or exclusive benefits to justify the premium price and differentiate the product from competitors.
+
+## CLOSING
+
+In conclusion, by carefully analyzing revenue trends, customer acquisition strategies, product performance, and international sales opportunities, businesses can unlock new avenues for growth and success. Remember to continuously monitor and adapt your strategies based on
+market dynamics and customer feedback. With a proactive approach to addressing challenges and leveraging opportunities, you can position your business for sustained profitability and
+expansion in both domestic and international markets.
 
 
 
