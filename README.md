@@ -45,10 +45,10 @@ To work with the data I did the Data cleaning first as this is an important part
 
 Handle missing data: First, I would look at the amount of missing data in each column.
 
-dataset.isnull().sum()
+> dataset.isnull().sum()
 
 The above data code gives the columns whose data is missing, the Description column and Customer ID. And to delete rows with missing data, I used the following code:
 
-delete rows with missing data dataset1 = dataset.dropna() .
+> delete rows with missing data dataset1 = dataset.dropna() .
 
 
