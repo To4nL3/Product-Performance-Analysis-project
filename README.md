@@ -35,3 +35,13 @@ Here are some of the data from my dataset:
 
 ![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/d0653dff-1077-4ed0-bff0-5bd0f9a951ad)
 
+
+DATA CLEANING:
+In order to work with the data, I did the Data cleaning first, as this is an important part of data analysis. In this way, we will be able to understand whether the data is ready to be analyzed. If not, then cleaning can be done. Cleaning can be done by removing outliers, empty values, and duplicate data.
+Handle missing data: First, I would look at the amount of missing data in each column.
+dataset.isnull().sum()
+The above data code gives the columns whose data is missing, the Description column and Customer ID. And to delete rows with missing data, I used the following code:
+# delete rows with missing data dataset1 = dataset.dropna() The above code deletes rows containing missing data.
+#To see whether the dataset is free from missing data or not dataset1.isnull().sum()
+
+
