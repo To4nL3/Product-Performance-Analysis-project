@@ -1,5 +1,5 @@
 # Product-Performance-Analysis-project
-THE DATA:
+# THE DATA:
 
 The data is an Excel file downloaded from Kaggle.com, a data center with many datasets worldwide. This dataset uses the years from December 1, 2009, to December 9, 2011.
 
@@ -10,7 +10,7 @@ and 525462 rows in year 2009-2010 sheet and 9 columns and 541911 rows in year 20
 
 ![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/fc11ed28-e098-4924-b804-3fbb1f7e24a1)
 
-OBJECTIVES:
+## OBJECTIVES
 
 The purpose of this analysis is to analyze an online retail store dataset. Here are several questions that will be answered in this analysis:
 1.	What is the total amount of revenue generated?
@@ -20,7 +20,7 @@ The purpose of this analysis is to analyze an online retail store dataset. Here 
 5.	Which countries do most customers come from?
 6.	How many products were canceled?
 
-TOOLS:
+## TOOLS
 
 I use Python 3.12 as my primary data tool for the processes of data cleaning, analysis, and visualization in Excel.
 
@@ -39,7 +39,7 @@ Here are some of the data from my dataset:
 ![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/d0653dff-1077-4ed0-bff0-5bd0f9a951ad)
 
 
-DATA CLEANING:
+## DATA CLEANING
 
 To work with the data I did the Data cleaning first as this is an important part in data analysis. In this way, we will be able to understand if the data seen is ready to be analyzed or not. If not, then cleaning can be done. Cleaning can be done by removing outliers, empty values, and duplicate data.
 
