@@ -92,5 +92,17 @@ For year 2009-2010
 The UK stands out as the country with the highest number of transactions, totaling 902,5222. This data suggests an opportunity for online retailers to consider increasing their production and marketing efforts within the UK market. However, it's important not to solely focus on the UK; attention should also be
 given to countries with lower transaction volumes. Inbound marketing, targeted advertising, and exploring international markets can effectively expand sales abroad.
 
+![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/f096e520-5da9-4400-88ac-79b4455a1716)
+
+5.	Products with less quantity sold:
+
+The products with low sales quantities present valuable insights for online stores to initiate strategic actions. It's essential for businesses to delve into the underlying reasons behind the lack of popularity among consumers. Questions arise: Is there a functional deficiency in the product? Is there a genuine demand for it within the target market? Or does its necessity peak during specific times or seasons? Exploring these factors is crucial for informed decision-making and optimizing product offerings.
+
+6.	Products with the highest price:
+
+The PICNIC BASKET WICKER 60 PIECES stands out as the highest-priced product at 649.5 Pound sterling. It's commonly perceived that higher prices correlate with better quality or rarity. However, it's imperative for businesses to ensure that the high price is justified by the product's quality.
+Maintaining the quality of the PICNIC BASKET WICKER 60 PIECES is essential to uphold consumer trust and satisfaction. If customers perceive a disconnect between price and quality, it can adversely affect the reputation of the online store. Therefore, a focus on quality assurance is crucial to sustain consumer interest and willingness to purchase despite the premium price tag.
+
+
 
 
