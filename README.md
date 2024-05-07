@@ -1,4 +1,9 @@
 # Product-Performance-Analysis-project
+# INTRODUCTION
+In this project, I will analyze the performance of products within an online retail dataset to uncover insights that can inform strategic business decisions. Leveraging transactional data, including sales revenue, profit margins, and customer reviews, you will conduct a comprehensive analysis to understand the dynamics of product performance over time and across different categories. Through descriptive analysis and visualization techniques, I will identify top-selling products, trends in sales revenue, and correlations between performance metrics. Additionally, you will delve into customer feedback to gauge product satisfaction and uncover areas for improvement. By providing actionable recommendations based on our analysis, you aim to optimize product offerings, enhance customer satisfaction, and drive business growth.
+
+Dataset: I will utilize the "Online Retail II Data Set" available on Kaggle, which contains transactional data from an online retail store, including information on products, sales, and customers.
+
 # THE DATA:
 
 The data is an Excel file downloaded from Kaggle.com, a data center with many datasets worldwide. This dataset uses the years from December 1, 2009, to December 9, 2011.
