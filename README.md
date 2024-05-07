@@ -1,5 +1,6 @@
 # Product-Performance-Analysis-project
 THE DATA:
+
 The data is an Excel file downloaded from Kaggle.com, a data center with many datasets worldwide. This dataset uses the years from December 1, 2009, to December 9, 2011.
 
 ![image](https://github.com/To4nL3/Product-Performance-Analysis-project/assets/166645959/b6217781-b8a8-4bfa-9068-f44919c152f0).
@@ -19,6 +20,7 @@ The purpose of this analysis is to analyze an online retail store dataset. Here 
 6.	How many products were canceled?
 
 TOOLS:
+
 I use Python 3.12 as my primary data tool for the processes of data cleaning, analysis, and visualization in Excel.
 
 DATA PREPARATION:
